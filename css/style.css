@@ -1,12 +1,13 @@
-* {
+/* ====DEFAULT==== */
+
+body {
     font-family: Arial, Verdana;
     background-color: #000000;
     color: #ffffff;
-    margin: 20px;
-    margin-bottom: 0px;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-top: 20px;
 }
-
-/* ====DEFAULT==== */
 
 h1 {
     font-size: 42px;
@@ -99,14 +100,14 @@ footer {
 /* ----green---- */
 
 .green {
-    background-color: #00EB00;
+    background-color: #00D800;
     text-align: left;
     margin-right: 50px;
     border-width: 0px 5px 2px 0px;
 }
 
 .green p, .green h2 {
-    background-color: #00EB00;
+    background-color: #00D800;
 }
 
 footer p {
