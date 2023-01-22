@@ -100,14 +100,14 @@ footer {
 /* ----green---- */
 
 .green {
-    background-color: #00D800;
+    background-color: #008500;
     text-align: left;
     margin-right: 50px;
     border-width: 0px 5px 2px 0px;
 }
 
 .green p, .green h2 {
-    background-color: #00D800;
+    background-color: #008500;
 }
 
 footer p {
